@@ -1,4 +1,4 @@
-````md
+
 <!-- ========================================================= -->
 <!--                     AR GHA DAS                            -->
 <!--              GITHUB PROFILE README                       -->
@@ -53,7 +53,7 @@ My favorite part of development is not just writing code.
 
 It's taking an idea from:
 
-```text
+
         💡 IDEA
            │
            ▼
@@ -73,7 +73,7 @@ It's taking an idea from:
            │
            ▼
      🔁 ITERATE
-````
+     
 
 > **Build first. Understand deeply. Improve constantly.**
 
@@ -521,11 +521,32 @@ broader backend/security architecture.
 
 ---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=ArghaDasAR&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"
+/>
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArghaDasAR&layout=compact&hide_border=true&theme=transparent&langs_count=10"
+/>
+
+</div>
+
+---
+
 # 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ArghaDasAR&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=FF4ECD&currStreakLabel=00F5FF"/>
+<img
+  src="https://streak-stats.demolab.com?user=ArghaDasAR&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=FF4ECD&currStreakLabel=00F5FF"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -535,19 +556,43 @@ broader backend/security architecture.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArghaDasAR&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=6"/>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=ArghaDasAR&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArghaDasAR&bg_color=0D1117&color=FFFFFF&line=00F5FF&point=FF4ECD&area=true&hide_border=true"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ArghaDasAR&bg_color=0D1117&color=FFFFFF&line=00F5FF&point=FF4ECD&area=true&hide_border=true"
+  alt="GitHub Activity Graph"
+  width="100%"
+/>
 
 </div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ArghaDasAR">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/arghadasar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
 
 ---
 
@@ -688,19 +733,3 @@ outside your comfort zone.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=twinkling&color=0:FF4ECD,50:7B61FF,100:00F5FF"/>
 
 </div>
-```
-
-### Two things to change before publishing
-
-Replace:
-
-```md
-YOUR_LINKEDIN_URL
-YOUR_PORTFOLIO_URL
-```
-
-with your real links.
-
-Also, GitHub currently reports **7 repositories**, while the profile page crawl exposed six repository names before the page-loading error. The `Explore All Repositories` button in the README handles that seventh repository automatically rather than inventing a repository name.
-
-This version is intentionally much richer than a normal GitHub README: **animated hero + typing effect + full technology-logo wall + every verified project repo + architecture sections + stats + streak + trophies + contribution graph + roadmap + developer philosophy**.
