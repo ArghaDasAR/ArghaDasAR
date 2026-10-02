@@ -509,73 +509,15 @@ broader backend/security architecture.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ArghaDasAR&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B61FF&text_color=FFFFFF"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArghaDasAR&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=10"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=ArghaDasAR&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArghaDasAR&layout=compact&hide_border=true&theme=transparent&langs_count=10"
-/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=ArghaDasAR&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=FF4ECD&currStreakLabel=00F5FF"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
 
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=ArghaDasAR&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
-  alt="GitHub Trophies"
-/>
+<img src="https://raw.githubusercontent.com/ArghaDasAR/ArghaDasAR/main/trophy.svg" alt="GitHub Trophies" width="100%"/>
 
 </div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ArghaDasAR&bg_color=0D1117&color=FFFFFF&line=00F5FF&point=FF4ECD&area=true&hide_border=true"
-  alt="GitHub Activity Graph"
-  width="100%"
-/>
-
-</div>
+```
 
 ---
 
