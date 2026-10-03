@@ -307,15 +307,6 @@ I enjoy:
 ---
 
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ArghaDasAR/ArghaDasAR/main/trophy.svg" alt="GitHub Trophies" width="100%"/>
-
-</div>
-```
-
 ---
 
 # 🌐 Connect With Me
