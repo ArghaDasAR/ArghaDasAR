@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Engineering+Student+%7C+Developer;Building+AI+Agents+and+Interactive+Web+Experiences;Cybersecurity+%2B+Web3+Explorer;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Hackathon+Builder+%7C+Problem+Solver;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Engineering+Student+%7C+Software+Developer;Building+AI+Agents+and+Interactive+Web+Experiences;AI/ML+%2B+Web3+Explorer;Frontend+Developer+%7C+UI%2FUX+Designer;Hackathon+Builder+%7C+Problem+Solver;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve" />
 
 <br><br>
 
