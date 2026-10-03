@@ -80,7 +80,7 @@ It's taking an idea from:
 ---
 
 # 🚀 What I'm Building
-
+<div align='center'>
 <table>
 <tr>
 
@@ -232,6 +232,7 @@ I enjoy:
 <img src="https://img.shields.io/badge/LLM%20Applications-7B61FF?style=for-the-badge"/>
 
 </p>
+</div>
 
 <br>
 
